@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Plug-in screenshot" src="https://github.com/resonaura/OwlyDist/blob/main/.github/PluginScreenshot.png?raw=true" width="500" />
+<img alt="Plug-in screenshot" src="https://github.com/resonaura/OwlyDist/blob/main/.github/owly.png?raw=true" width="500" />
 
 # Owly DIST (VST3 Win/Mac)
 
