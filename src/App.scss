@@ -1,0 +1,61 @@
+.app {
+    text-align: center;
+
+    * {
+        user-select: none;
+    }
+}
+
+.app-logo {
+    margin-top: 30px;
+    height: 100px;
+    pointer-events: none;
+    margin-bottom: 50px;
+}
+
+.app-main {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.app-link {
+    color: #61dafb;
+}
+
+.knobs-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0rem;
+    margin-top: -20px;
+
+    .row-big {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .row-small {
+        margin-top: -50px;
+        display: flex;
+        gap: 15rem;
+    }
+}
+
+h3 {
+    margin-top: 5px;
+    letter-spacing: 0px;
+    font-weight: 200;
+
+    span {
+        letter-spacing: 5px;
+        margin-left: 10px;
+        font-weight: 500;
+        filter: drop-shadow(0px 0px 2px hsla(0, 0%, 100%, 0.5));
+    }
+}

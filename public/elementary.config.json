@@ -1,0 +1,42 @@
+{
+    "displayName": "Owly DIST",
+    "company": "Resonaura",
+    "bundleId": "com.resonaura.owly.dist",
+    "version": "1.0.0",
+    "manufacturerCode": "Resonaura",
+    "pluginCode": "Resonaura",
+    "numInputChannels": 2,
+    "numOutputChannels": 2,
+    "window": {
+        "width": 880,
+        "height": 550,
+        "maxWidth": 880,
+        "maxHeight": 550,
+        "minWidth": 880,
+        "minHeight": 550,
+        "showToolbar": false
+    },
+    "parameters": [
+        {
+            "paramId": "gain",
+            "name": "GAIN",
+            "min": 0.0,
+            "max": 1.0,
+            "defaultValue": 0.5
+        },
+        {
+            "paramId": "tone",
+            "name": "TONE",
+            "min": 0.0,
+            "max": 1.0,
+            "defaultValue": 0.6
+        },
+        {
+            "paramId": "crush",
+            "name": "CRUSH",
+            "min": 0.0,
+            "max": 1.0,
+            "defaultValue": 0.2
+        }
+    ]
+}
