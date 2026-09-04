@@ -3,6 +3,11 @@
 
 # Owly DIST (VST3 Win/Mac)
 
+[![Version](https://img.shields.io/badge/Version-0.1.0-blue.svg)](package.json)
+[![Format](https://img.shields.io/badge/Format-VST3-orange.svg)](#supported-formats)
+[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey.svg)](#supported-formats)
+[![Audio](https://img.shields.io/badge/Engine-Elementary%20Audio-8A2BE2.svg)](https://elementary.audio)
+
 Distortion plugin capable of creating magic ✨🐾\
 The latest builds of our plugin you can download **from our Telegram channel**: [@resonaura](https://resonaura.t.me/)
 
