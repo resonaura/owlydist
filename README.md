@@ -11,6 +11,11 @@
 Distortion plugin capable of creating magic ✨🐾\
 The latest builds of our plugin you can download **from our Telegram channel**: [@resonaura](https://resonaura.t.me/)
 
+
+<p align="center">
+  <img src="media/owlydist.png" width="800" alt="OwlyDist Elementary Audio DSP Plugin" />
+</p>
+
 <br/>
 <br/>
 </div>
