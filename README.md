@@ -7,6 +7,7 @@
 [![Format](https://img.shields.io/badge/Format-VST3-orange.svg)](#supported-formats)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey.svg)](#supported-formats)
 [![Audio](https://img.shields.io/badge/Engine-Elementary%20Audio-8A2BE2.svg)](https://elementary.audio)
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/resonaura)
 
 Distortion plugin capable of creating magic ✨🐾\
