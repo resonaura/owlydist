@@ -8,6 +8,7 @@
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey.svg)](#supported-formats)
 [![Audio](https://img.shields.io/badge/Engine-Elementary%20Audio-8A2BE2.svg)](https://elementary.audio)
 
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/resonaura)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/resonaura)
 
 Distortion plugin capable of creating magic ✨🐾\
@@ -15,7 +16,7 @@ The latest builds of our plugin you can download **from our Telegram channel**: 
 
 
 <p align="center">
-  <img src="media/owlydist.png" width="800" alt="OwlyDist Elementary Audio DSP Plugin" />
+  <img src="https://raw.githubusercontent.com/resonaura/owlydist/main/media/owlydist.png" width="800" alt="OwlyDist Elementary Audio DSP Plugin" />
 </p>
 
 <br/>
